@@ -1,0 +1,420 @@
+.logo {
+    animation: Muncul 2s ease;
+}
+@keyframes Muncul{
+    0% {
+        opacity: 0;
+        transform: scale(0);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.sekolah {
+    animation: Muncul 2s ease;
+}
+@keyframes Muncul{
+    0% {
+        opacity: 0;
+        transform: scale(0);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.persegi {
+    animation: Muncul 2s ease;
+}
+@keyframes Muncul{
+    0% {
+        opacity: 0;
+        transform: scale(0);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.judul {
+    animation: Muncul 2s ease;
+}
+@keyframes Muncul{
+    0% {
+        opacity: 0;
+        transform: scale(0);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.judul1 {
+    animation: Muncul 2s ease;
+}
+@keyframes Muncul{
+    0% {
+        opacity: 0;
+        transform: scale(0);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.teks1 {
+    animation: Muncul 2s ease;
+}
+@keyframes Muncul{
+    0% {
+        opacity: 0;
+        transform: scale(0);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.teks2 {
+    animation: Muncul 2s ease;
+}
+@keyframes Muncul{
+    0% {
+        opacity: 0;
+        transform: scale(0);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.teks3 {
+    animation: Muncul 2s ease;
+}
+@keyframes Muncul{
+    0% {
+        opacity: 0;
+        transform: scale(0);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.kotak2 {
+    animation: Muncul 2s ease;
+}
+@keyframes Muncul{
+    0% {
+        opacity: 0;
+        transform: scale(0);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.foto1 {
+    animation: Muncul 2s ease;
+}
+@keyframes Muncul{
+    0% {
+        opacity: 0;
+        transform: scale(0);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.data {
+    animation: Muncul 2s ease;
+}
+@keyframes Muncul{
+    0% {
+        opacity: 0;
+        transform: scale(0);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.data1 {
+    animation: Muncul 2s ease;
+}
+@keyframes Muncul{
+    0% {
+        opacity: 0;
+        transform: scale(0);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.data2 {
+    animation: Muncul 2s ease;
+}
+@keyframes Muncul{
+    0% {
+        opacity: 0;
+        transform: scale(0);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.data3 {
+    animation: Muncul 2s ease;
+}
+@keyframes Muncul{
+    0% {
+        opacity: 0;
+        transform: scale(0);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.data4 {
+    animation: Muncul 2s ease;
+}
+@keyframes Muncul{
+    0% {
+        opacity: 0;
+        transform: scale(0);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.pembuka {
+    animation: Muncul 2s ease;
+}
+@keyframes Muncul{
+    0% {
+        opacity: 0;
+        transform: scale(0);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.garis1 {
+    animation: Muncul 2s ease;
+}
+@keyframes Muncul{
+    0% {
+        opacity: 0;
+        transform: scale(0);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.kata1 {
+    animation: Muncul 2s ease;
+}
+@keyframes Muncul{
+    0% {
+        opacity: 0;
+        transform: scale(0);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.kata2 {
+    animation: Muncul 2s ease;
+}
+@keyframes Muncul{
+    0% {
+        opacity: 0;
+        transform: scale(0);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.border1 {
+    animation: Muncul 2s ease;
+}
+@keyframes Muncul{
+    0% {
+        opacity: 0;
+        transform: scale(0);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.perusahaan {
+    animation: Muncul 2s ease;
+}
+@keyframes Muncul{
+    0% {
+        opacity: 0;
+        transform: scale(0);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.jelas {
+    animation: Muncul 2s ease;
+}
+@keyframes Muncul{
+    0% {
+        opacity: 0;
+        transform: scale(0);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.gedung {
+    animation: Muncul 2s ease;
+}
+@keyframes Muncul{
+    0% {
+        opacity: 0;
+        transform: scale(0);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.tautan {
+    animation: Muncul 3s ease;
+}
+@keyframes Muncul{
+    0% {
+        opacity: 0;
+        transform: scale(0);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+
+.border2 {
+    animation: Muncul 2s ease;
+}
+@keyframes Muncul{
+    0% {
+        opacity: 0;
+        transform: scale(0);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.kegiatan {
+    animation: Muncul 2s ease;
+}
+@keyframes Muncul{
+    0% {
+        opacity: 0;
+        transform: scale(0);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.jelas1 {
+    animation: Muncul 2s ease;
+}
+@keyframes Muncul{
+    0% {
+        opacity: 0;
+        transform: scale(0);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.klip {
+    animation: Muncul 2s ease;
+}
+@keyframes Muncul{
+    0% {
+        opacity: 0;
+        transform: scale(0);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.tautan1 {
+    animation: Muncul 3s ease;
+}
+@keyframes Muncul{
+    0% {
+        opacity: 0;
+        transform: scale(0);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.border3 {
+    animation: Muncul 2s ease;
+}
+@keyframes Muncul{
+    0% {
+        opacity: 0;
+        transform: scale(0);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
