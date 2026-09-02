@@ -1,0 +1,350 @@
+/* =========================================
+   DASAR WEBSITE
+========================================= */
+
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+    min-width: 700px;
+    font-family: Arial, sans-serif;
+    overflow-x: hidden;
+}
+
+
+/* =========================================
+   LOGO
+========================================= */
+
+.logo {
+    width: 50px;
+    height: 50px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+
+/* =========================================
+   NAMA SEKOLAH
+========================================= */
+
+.sekolah {
+    font-size: small;
+    font-style: normal;
+    text-align: center;
+
+    margin-top: -35px;
+    margin-left: -990px;
+}
+
+
+/* =========================================
+   KOTAK UTAMA
+========================================= */
+
+.persegi {
+    width: 100%;
+    height: 400px;
+
+    background: linear-gradient(
+        to right,
+        #4169E1,
+        #4169E1,
+        #4169E1
+    );
+
+    margin-top: 40px;
+    border-radius: 20px;
+    margin-left: -0px;
+}
+
+
+/* =========================================
+   JUDUL
+========================================= */
+
+.judul {
+    margin-top: -350px;
+    margin-left: 40px;
+
+    color: white;
+}
+
+.judul1 {
+    margin-left: 40px;
+    margin-top: -15px;
+
+    color: white;
+}
+
+
+/* =========================================
+   TEKS
+========================================= */
+
+.teks1 {
+    margin-left: 40px;
+    margin-top: 40px;
+
+    color: white;
+}
+
+.teks2 {
+    margin-left: 40px;
+    margin-top: 0px;
+
+    color: white;
+}
+
+.teks3 {
+    margin-left: 40px;
+    margin-top: 40px;
+
+    color: white;
+    font-size: small;
+}
+
+
+/* =========================================
+   KOTAK DATA DIRI
+========================================= */
+
+.kotak2 {
+    width: 37%;
+    height: 350px;
+
+    border-radius: 20px;
+    background: white;
+
+    margin-top: -251px;
+    margin-left: 890px;
+}
+
+
+/* =========================================
+   FOTO
+========================================= */
+
+.foto1 {
+    width: 120px;
+    height: 120px;
+
+    border-radius: 60px;
+
+    margin-left: 930px;
+
+    position: relative;
+    top: -240px;
+}
+
+
+/* =========================================
+   DATA
+========================================= */
+
+.data {
+    margin-left: 1080px;
+
+    position: relative;
+    top: -420px;
+}
+
+.data1 {
+    margin-left: 1080px;
+
+    position: relative;
+    top: -410px;
+}
+
+.data2 {
+    margin-left: 1080px;
+
+    position: relative;
+    top: -400px;
+}
+
+.data3 {
+    margin-left: 1080px;
+
+    position: relative;
+    top: -390px;
+}
+
+.data4 {
+    margin-left: 1080px;
+
+    position: relative;
+    top: -380px;
+}
+
+
+/* =========================================
+   PEMBUKA
+========================================= */
+
+.pembuka {
+    text-align: center;
+    margin-top: -270px;
+}
+
+.garis1 {
+    background-color: #4169E1;
+
+    height: 2px;
+    width: 80px;
+
+    position: relative;
+    top: -10px;
+}
+
+.kata1 {
+    text-align: center;
+    margin-left: 35px;
+}
+
+.kata2 {
+    text-align: center;
+    margin-left: 40px;
+}
+
+
+/* =========================================
+   KOTAK PERUSAHAAN
+========================================= */
+
+.border1 {
+    border: 2px solid black;
+
+    width: 400px;
+    height: 290px;
+
+    border-radius: 10px;
+
+    position: relative;
+    top: 40px;
+
+    margin-left: 125px;
+}
+
+.perusahaan {
+    position: relative;
+
+    top: -250px;
+    margin-left: 290px;
+}
+
+.jelas {
+    position: relative;
+
+    top: -245px;
+    margin-left: 290px;
+}
+
+.gedung {
+    width: 120px;
+    height: 200px;
+
+    position: relative;
+
+    top: -370px;
+    margin-left: 140px;
+}
+
+.tautan {
+    position: relative;
+
+    top: -330px;
+
+    text-decoration: none;
+    font-weight: bold;
+
+    color: #4169E1;
+
+    margin-left: -10px;
+}
+
+
+/* =========================================
+   KOTAK KEGIATAN
+========================================= */
+
+.border2 {
+    border: 2px solid black;
+
+    width: 400px;
+    height: 290px;
+
+    border-radius: 10px;
+
+    position: relative;
+    top: -589px;
+
+    margin-left: 915px;
+}
+
+.kegiatan {
+    margin-left: 1115px;
+
+    position: relative;
+    top: -880px;
+}
+
+.jelas1 {
+    position: relative;
+
+    top: -873px;
+    margin-left: 1115px;
+}
+
+.klip {
+    width: 120px;
+    height: 200px;
+
+    position: relative;
+
+    top: -1010px;
+    margin-left: 960px;
+}
+
+.tautan1 {
+    position: relative;
+
+    top: -978px;
+
+    text-decoration: none;
+    font-weight: bold;
+
+    color: #4169E1;
+
+    margin-left: -10px;
+}
+
+
+/* =========================================
+   TAMPILAN HP
+   ========================================= */
+
+@media screen and (max-width: 1400px) {
+
+    html {
+        /*
+       
+        */
+        zoom: calc(100vw / 400);
+    }
+
+    body {
+        width: 1400px;
+        min-width: 1400px;
+
+        overflow-x: hidden;
+    }
+}
